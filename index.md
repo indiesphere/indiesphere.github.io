@@ -35,4 +35,4 @@ img.innerlync {
   transform: rotate(-1800deg) rotateX(0deg) rotateY(0deg) rotateZ(0deg);
 }
 </style>
-<a class="outerlync" href="https://github.com/indiesphere"><img class="innerlync" src="https://www.tiqtiq.net/favicon.ico" /></a>
+<a class="outerlync" href="https://github.com/indiesphere"><img class="innerlync" src="https://www.indiesphere.org/favicon.ico" /></a>
